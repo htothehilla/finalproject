@@ -1,15 +1,17 @@
 # install dependent libraries
 # you will have to pip install requests when creating a new enviroments via the terminal
+# documentation api https://developer.edamam.com/edamam-docs-recipe-api
 import requests
-# define a function that calls the api with
 
-#to note api_id and api_key is part of the url
-api_id = "1c7857d6"
-api_key = "2ac1fd3542014ae0f08dee149581dae5"
+#to use please request an api
+
+api_id = "request yah own"
+api_key = "request yah own via ednam"
 
 #asking user how much time they have
 time = input("how much time in minutes do you have to cook ?")
 
+# define a function that calls the api with
 def recipe_search(ingredient):
     url = 'https://api.edamam.com/search?q={}&app_id={}&app_key={}&from=0&to=10&health=vegan&time={}'.format(
         ingredient, api_id, api_key,time)
