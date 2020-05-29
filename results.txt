@@ -1,0 +1,50 @@
+Bread Baking: Walnut Apricot Bread Recipe
+http://www.seriouseats.com/recipes/2010/04/bread-baking-walnut-apricot-bread-recipe.html
+['Vegan', 'Vegetarian', 'Peanut-Free', 'Alcohol-Free']
+0.0
+
+Grilled Bread
+http://www.marthastewart.com/331718/grilled-bread
+['Vegan', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free']
+65.0
+
+Classic Rye Bread
+http://ruhlman.com/2011/01/rye-bread-recipe/
+['Sugar-Conscious', 'Vegan', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free']
+0.0
+
+Rustic Bread
+https://www.epicurious.com/recipes/food/views/rustic-loaf
+['Sugar-Conscious', 'Vegan', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free']
+0.0
+
+Bread
+http://www.amateurgourmet.com/2006/11/make_bread.html
+['Sugar-Conscious', 'Vegan', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free']
+0.0
+
+Easiest Ever Garlic Bread
+http://www.simplyrecipes.com/recipes/easiest_ever_garlic_bread/
+['Vegan', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free']
+0.0
+
+Spanish tomato bread
+http://www.bbc.co.uk/food/recipes/spanish_tomato_bread_15677
+['Vegan', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free']
+23.0
+
+New Orleans French Bread
+http://www.saveur.com/article/Recipes/New-Orleans-French-Bread
+['Sugar-Conscious', 'Vegan', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free']
+0.0
+
+“Bloomer” Bread
+http://honestcooking.com/bloomer-bread/
+['Sugar-Conscious', 'Vegan', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free']
+80.0
+
+Toasted Bread With Chocolate
+http://www.finecooking.com/recipes/toasted-bread-chocolate.aspx
+['Vegan', 'Vegetarian', 'Peanut-Free', 'Tree-Nut-Free', 'Alcohol-Free']
+0.0
+
